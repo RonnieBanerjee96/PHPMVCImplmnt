@@ -1,1 +1,1 @@
-Fundamental MVC Framework for faster and consistent development of websites.
+Fundamental MVC Framework for faster and consistent development of websites. This repo demostrates the pre-production early stage viability of the project using SQL based basic authentication (Registration and Login).
